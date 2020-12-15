@@ -25,4 +25,8 @@
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="global.json" />
+  </ItemGroup>
+
 </Project>

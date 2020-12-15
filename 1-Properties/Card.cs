@@ -35,7 +35,7 @@ namespace Properties
 
         public string Seed
         {
-            get { return this.Seed; }
+            get { return this.seed; }
         }
 
         public string Name
